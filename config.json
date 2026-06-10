@@ -1,0 +1,11 @@
+{
+  "symbols": ["TCS", "INFY", "RELIANCE"],
+  "batchSize": 2,
+  "retryCount": 3,
+  "outputDir": "output",
+  "headless": true,
+  "symbolSource": {
+    "type": "inline",
+    "path": ""
+  }
+}
